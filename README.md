@@ -14,8 +14,8 @@ esse projeto com criando em laravel para aprender autenticação com middleware 
 
 ## Como rodar o projeto
 
-1 - executar o composer update no cmd ou gitbash
-2 - adicionar o .env fazer conexão com o banco de dados mysql
+1 - executar o composer update no cmd ou gitbash <br>
+2 - adicionar o .env fazer conexão com o banco de dados mysql <br>
 3 - abrir o visualcode executar php artisan serve
 
 -------------------------------------------------------
